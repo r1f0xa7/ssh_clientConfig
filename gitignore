@@ -1,0 +1,5 @@
+
+# Ignore SSH keys and config file (if sensitive)
+*.pem
+*.pub
+.config
